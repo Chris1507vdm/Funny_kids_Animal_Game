@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="start_button_text">Start</string>
+    <string name="main_question">Which animal makes this sound?</string>
+    <string name="results_text_view">Your Results</string>
+    <string name="incorect_result_main_text_view">inCoREcT</string>
+    <string name="correct_results_main_text_view">cOrReCt</string>
+    <string name="play_again_button_text">Play Again</string>
+
+
+    <string name="bear">Growl...</string>
+    <string name="antelope">Snort...</string>*
+    <string name="dog">Bark...</string>*
+    <string name="lion">Roar...</string>
+    <string name="cat">Meow...</string>
+    <string name="chicken">Cluck...</string>
+    <string name="cow">Moo...</string>
+    <string name="donkey">Hee-haw...</string>
+    <string name="elk">Bugle...</string>*
+    <string name="elephant">Trumpet...</string>
+    <string name="horse">Neigh...</string>
+    <string name="mouse">Squeak...</string>*
+    <string name="owl">Hoot...</string>
+    <string name="pig">Oink...</string>
+    <string name="swan">Cry...</string>/*
+    <string name="bird">Chirp...</string>
+
+    <string name="page0_top_left_image_view">dOg</string>
+    <string name="page0_top_right_image_view">elK</string>
+    <string name="page0_bottom_left_image_view">cAT</string>
+    <string name="page0_bottom_right_image_view">bEaR</string>
+
+    <string name="page1_top_left_image_view">aNTeloPe</string>
+    <string name="page1_top_right_image_view">chICKeN</string>
+    <string name="page1_bottom_left_image_view">bIRd</string>
+    <string name="page1_bottom_right_image_view">hoRSe</string>
+
+    <string name="page2_top_left_image_view">dOG</string>
+    <string name="page2_top_right_image_view">BaDGER</string>
+    <string name="page2_bottom_left_image_view">CaT</string>
+    <string name="page2_bottom_right_image_view">biRD</string>
+
+    <string name="page3_top_left_image_view">MoUsE</string>
+    <string name="page3_top_right_image_view">pAnDA</string>
+    <string name="page3_bottom_left_image_view">LIoN</string>
+    <string name="page3_bottom_right_image_view">dOnKeY</string>
+
+    <string name="page4_top_left_image_view">DOg</string>
+    <string name="page4_top_right_image_view">penGUIN</string>
+    <string name="page4_bottom_left_image_view">oWL</string>
+    <string name="page4_bottom_right_image_view">cAt</string>
+
+    <string name="page5_top_left_image_view">PiG</string>
+    <string name="page5_top_right_image_view">sWAN</string>
+    <string name="page5_bottom_left_image_view">ChiCKEn</string>
+    <string name="page5_bottom_right_image_view">BIrD</string>
+
+    <string name="page6_top_left_image_view">cOW</string>
+    <string name="page6_top_right_image_view">bADGEr</string>
+    <string name="page6_bottom_left_image_view">lIoN</string>
+    <string name="page6_bottom_right_image_view">pAnDa</string>
+
+    <string name="page7_top_left_image_view">CoW</string>
+    <string name="page7_top_right_image_view">hOrSE</string>
+    <string name="page7_bottom_left_image_view">bIRd</string>
+    <string name="page7_bottom_right_image_view">dOnKEy</string>
+
+    <string name="page8_top_left_image_view">pIg</string>
+    <string name="page8_top_right_image_view">hORSe</string>
+    <string name="page8_bottom_left_image_view">bIRd</string>
+    <string name="page8_bottom_right_image_view">pAnDa</string>
+
+    <string name="page9_top_left_image_view">COw</string>
+    <string name="page9_top_right_image_view">eLePHaNt</string>
+    <string name="page9_bottom_left_image_view">hOrSe</string>
+    <string name="page9_bottom_right_image_view">pAnDA</string>
+
+
+
+</resources>
